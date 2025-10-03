@@ -2,14 +2,14 @@
   "name": "BatmanCoin",
   "symbol": "BAT",
   "description": "The first Batman Test Token on Solana Devnet.",
-  "image": "https://arweave.net/xyz123...", 
+  "image": "https://raw.githubusercontent.com/Kevin-alt-pixel/batman-token-meta/refs/heads/main/batman%20256x256.ico", 
   "attributes": [
     { "trait_type": "Origin", "value": "Solana Devnet" }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://arweave.net/xyz123...",
+        "uri": "https://raw.githubusercontent.com/Kevin-alt-pixel/batman-token-meta/refs/heads/main/batman%20256x256.ico",
         "type": "image/png"
       }
     ],
