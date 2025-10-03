@@ -2,14 +2,14 @@
   "name": "BatmanCoin",
   "symbol": "BAT",
   "description": "The first Batman Test Token on Solana Devnet.",
-  "image": "https://raw.githubusercontent.com/Kevin-alt-pixel/batman-token-meta/refs/heads/main/batman%20256x256.ico", 
+  "image": "batman 256x256.png", 
   "attributes": [
     { "trait_type": "Origin", "value": "Solana Devnet" }
   ],
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/Kevin-alt-pixel/batman-token-meta/refs/heads/main/batman%20256x256.ico",
+        "uri": "batman 256x256.png",
         "type": "image/png"
       }
     ],
