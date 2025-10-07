@@ -1,0 +1,19 @@
+{
+  "name": "Batman test",
+  "symbol": "BAT",
+  "description": "Batman test SPL token on Solana Devnet",
+  "image": "https://raw.githubusercontent.com/Kevin-alt-pixel/batman-token-meta/main/batman%20256x256.png",
+  "attributes": [
+    { "trait_type": "network", "value": "devnet" },
+    { "trait_type": "type", "value": "SPL-Token" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Kevin-alt-pixel/batman-token-meta/main/batman%20256x256.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
